@@ -1,0 +1,50 @@
+:root {
+    --white: #373737;
+    --black: #f3f3f3;
+    --gold: #E8B44D;
+  }
+
+html {
+    background-color: var(--white);
+    color: var(--black);
+}
+
+
+#projects {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+    grid-gap: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: var(--black);
+}
+
+.projectdiv {
+    border: var(--black) 4px solid;
+    border-radius: 20px;
+}
+
+#intro {
+    display: block;
+    text-align: center;
+    max-width: 40%;
+    margin: auto;
+}
+
+header{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#footer {
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+
+#mynameinlicense {
+    color: var(--gold);
+}

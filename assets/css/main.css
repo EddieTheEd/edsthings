@@ -13,11 +13,17 @@ html {
 #projects {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
     text-align: center;
     grid-gap: 30px;
 }
 
 a {
+    text-decoration: none;
+    color: var(--gold); 
+}
+
+#projectlink {
     text-decoration: none;
     color: var(--black);
 }

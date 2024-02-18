@@ -54,3 +54,7 @@ header{
 #mynameinlicense {
     color: var(--gold);
 }
+
+em {
+  margin-bottom: 30px;
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Ed's Obsidian Notes",
+    "link": "https://ed.toomwn.xyz/",
+    "description": "A personal notes website, running with Blaze.",
+    "image": "./assets/images/edsobsidiannotes.png"
+  },
+  {
+    "name": "Frengraph",
+    "link": "https://frengraph.toomwn.xyz/",
+    "description": "A fun graphing project for friendship groups.",
+    "image": "./assets/images/frengraph.png"
+  },
+  {
+    "name": "Voice Assistant",
+    "link": "https://github.com/EddieTheEd/voiceassistant",
+    "description": "A silly voice assistant in Python powered (?) by OpenAI.",
+    "image": "./assets/images/voiceassistant.png"
+  },
+  {
+    "name": "Blaze",
+    "link": "https://blaze.toomwn.xyz/",
+    "description": "A simple static site generator for Github Pages written in Rust (Ossac, Tag).",
+    "image": "./assets/images/blaze.png"
+  },
+  {
+    "name": "Pinyinification",
+    "link": "https://pinyin.toomwn.xyz/",
+    "description": "A lightweight translation tool for Chinese to English, with some Japanese functionality. Uses Google Translate API.",
+    "image": "./assets/images/pinyin.png"
+  },
+  {
+    "name": "Demeter",
+    "link": "https://demeter.toomwn.xyz/",
+    "description": "A study tool, using Google Docs viewer.",
+    "image": "./assets/images/demeter.png"
+  },
+  {
+    "name": "China",
+    "link": "https://github.com/EddieTheEd/China",
+    "description": "Convert a .txt file of Chinese vocabulary to a Listening, Reading and Writing anki. Uses Google Translate and Google TTS.",
+    "image": "./assets/images/na.png"
+  },
+  {
+    "name": "Dating",
+    "link": "https://dating.toomwn.xyz/",
+    "description": "A school tool to convert a school date to a calendar date.",
+    "image": "./assets/images/dating.png"
+  },
+  {
+    "name": "The Lit Anki",
+    "link": "https://litanki.toomwn.xyz/",
+    "description": "Convert literature terms into an anki. (anonymoof1528)",
+    "image": "./assets/images/tla.png"
+  },
+  {
+    "name": "Qtaskst",
+    "link": "https://github.com/EddieTheEd/qtaskst",
+    "description": "A very, very lightweight task manager written in PyQt5.",
+    "image": "./assets/images/qtaskst.svg"
+  }
+]

@@ -49,3 +49,10 @@ function appendProjects(data) {
 
 // Call the fetchJSONFile function and append projects when JSON data is fetched
 fetchJSONFile(appendProjects);
+
+document.addEventListener("DOMContentLoaded", function() {
+  var img = document.createElement("img");
+  img.src = "./assets/images/compsciismypasion.gif";
+  img.alt = "comp sci is my passion";
+  document.getElementById("intro").appendChild(img);
+});
